@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "588952519853",
+    "firebase_url": "https://doctorapp-82164.firebaseio.com",
+    "project_id": "doctorapp-82164",
+    "storage_bucket": "doctorapp-82164.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588952519853:android:9991bfd126c51c82",
+        "android_client_info": {
+          "package_name": "com.kuwaithospital.doctorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588952519853-ht65jpdarfj7qkhpqnnc4hptq2omf8jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbAn1oO_hyEIfHszau7GrDOsVhGWBcguY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
